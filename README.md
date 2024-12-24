@@ -1,1 +1,0 @@
-I collaborated with my friends to implement a Simon Says game as the final project for my Hardware Design and Lab course. Designed the game logic and controls using Verilog HDL, with a focus on sequential logic and finite state machines.
